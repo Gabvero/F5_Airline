@@ -1,4 +1,4 @@
-# Aerolinea_equipo_3
+# F5 Aerolinea
 
 ### EL PROYECTO
 
@@ -48,8 +48,3 @@ Este proyecto ha sido desarrollado por:
   + Paloma García
   + Victoria Moraleda
   + José López
-
-
-
-# Aerolinea_equipo_3
-Ejercicio Aerolinea equipo 3
